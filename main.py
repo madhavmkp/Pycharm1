@@ -16,3 +16,4 @@ if __name__ == '__main__':
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
  apple orange banana
 apple orrange banana grapes
+apple orrange banana grapes papaya are fruits
